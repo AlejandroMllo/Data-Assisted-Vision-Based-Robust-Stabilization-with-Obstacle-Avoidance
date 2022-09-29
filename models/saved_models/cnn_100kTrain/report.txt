@@ -1,0 +1,2 @@
+Validation metrics:
+Test loss MSE: 100.0770263671875

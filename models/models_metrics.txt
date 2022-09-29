@@ -1,0 +1,194 @@
+##########################################################
+# Model: cnn_100kTrain
+# Data: Normal
+
+Model metrics on train0 data:
+	loss: 98.15043640136719
+	mean_squared_error: 98.15043640136719
+	mean_absolute_error: 5.115389347076416
+	Support: 20.000
+Model metrics on train1 data:
+	loss: 100.46707153320312
+	mean_squared_error: 100.46707153320312
+	mean_absolute_error: 5.191115856170654
+	Support: 20.000
+Model metrics on train2 data:
+	loss: 96.60183715820312
+	mean_squared_error: 96.60183715820312
+	mean_absolute_error: 5.056636333465576
+	Support: 20.000
+Model metrics on train3 data:
+	loss: 98.98605346679688
+	mean_squared_error: 98.98605346679688
+	mean_absolute_error: 5.117551326751709
+	Support: 20.000
+Model metrics on train4 data:
+	loss: 98.08051300048828
+	mean_squared_error: 98.08051300048828
+	mean_absolute_error: 5.0858683586120605
+	Support: 20.000
+Train aggregated:
+    MSE: 98.45718231201172
+    MAE: 5.113312244415283
+    Support: 100.000
+
+Model metrics on validation data:
+	loss: 97.3923568725586
+	mean_squared_error: 97.3923568725586
+	mean_absolute_error: 5.07834005355835
+	Support: 10.000
+
+Model metrics on test data:
+	loss: 98.38502502441406
+	mean_squared_error: 98.38502502441406
+	mean_absolute_error: 5.113837718963623
+	Support: 10000
+
+
+
+##########################################################
+# Model: cnn_100kTrain
+# Data: 100% Occlusion
+
+Model metrics on train0 data:
+	loss: 146.27178955078125
+	mean_squared_error: 146.27178955078125
+	mean_absolute_error: 7.807209491729736
+	Support: 20.000
+Model metrics on train1 data:
+	loss: 147.01351928710938
+	mean_squared_error: 147.01351928710938
+	mean_absolute_error: 7.841115474700928
+	Support: 20.000
+Model metrics on train2 data:
+	loss: 146.3417510986328
+	mean_squared_error: 146.3417510986328
+	mean_absolute_error: 7.818686008453369
+	Support: 20.000
+Model metrics on train3 data:
+	loss: 145.17665100097656
+	mean_squared_error: 145.17665100097656
+	mean_absolute_error: 7.795456886291504
+	Support: 20.000
+Model metrics on train4 data:
+	loss: 148.60147094726562
+	mean_squared_error: 148.60147094726562
+	mean_absolute_error: 7.868241310119629
+	Support: 20.000
+Train aggregated:
+    MSE: 146.68103637695313
+    MAE: 7.826141834259033
+    Support: 100.000	
+
+Model metrics on validation data:
+	loss: 149.14639282226562
+	mean_squared_error: 149.14639282226562
+	mean_absolute_error: 7.884255409240723
+	Support: 10.000
+
+Model metrics on test data:
+	loss: 147.24761962890625
+	mean_squared_error: 147.24761962890625
+	mean_absolute_error: 7.833393573760986
+	Support: 10.000
+
+
+
+##########################################################
+# Model: cnn_100kTrain_100%_OcclusionRate
+# Data: 100% Occlusion
+
+Model metrics on train0.1 data:
+	loss: 97.89852142333984
+	mean_squared_error: 97.89852142333984
+	mean_absolute_error: 5.319063663482666
+	Support: 10.000
+Model metrics on train0.2 data:
+	loss: 101.72111511230469
+	mean_squared_error: 101.72111511230469
+	mean_absolute_error: 5.381796836853027
+	Support: 10.000
+Model metrics on train1.1 data:
+	loss: 100.52922821044922
+	mean_squared_error: 100.52922821044922
+	mean_absolute_error: 5.377280235290527
+	Support: 10.000
+Model metrics on train1.2 data:
+	loss: 100.85809326171875
+	mean_squared_error: 100.85809326171875
+	mean_absolute_error: 5.369456768035889
+	Support: 10.000
+Model metrics on train2.1 data:
+	loss: 99.79521942138672
+	mean_squared_error: 99.79521942138672
+	mean_absolute_error: 5.3561506271362305
+	Support: 10.000
+Model metrics on train2.2 data:
+	loss: 100.28520965576172
+	mean_squared_error: 100.28520965576172
+	mean_absolute_error: 5.367033958435059
+	Support: 10.000
+Model metrics on train3.1 data:
+	loss: 98.57140350341797
+	mean_squared_error: 98.57140350341797
+	mean_absolute_error: 5.338728904724121
+	Support: 10.000
+Model metrics on train3.2 data:
+	loss: 98.78905487060547
+	mean_squared_error: 98.78905487060547
+	mean_absolute_error: 5.3062968254089355
+	Support: 10.000
+Model metrics on train4.1 data:
+	loss: 100.22087860107422
+	mean_squared_error: 100.22087860107422
+	mean_absolute_error: 5.369134902954102
+	Support: 10.000
+Model metrics on train4.2 data:
+	loss: 102.58031463623047
+	mean_squared_error: 102.58031463623047
+	mean_absolute_error: 5.418700218200684
+	Support: 10.000
+Train aggregated:
+    MSE: 100.12490386962891
+    MAE: 5.360364294052124
+    Support: 100.000	
+
+Model metrics on validation data:
+	loss: 103.30350494384766
+	mean_squared_error: 103.30350494384766
+	mean_absolute_error: 5.456579208374023
+	Support: 10.000
+
+Model metrics on test data:
+	loss: 99.64384460449219
+	mean_squared_error: 99.64384460449219
+	mean_absolute_error: 5.336878776550293
+	Support: 10.000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
